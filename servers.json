@@ -1,16 +1,54 @@
 {
   "*server_1":{
     "name":"Official 1",
-    "version":673,
-    "note":"Vanilla server",
     "address":"194.87.235.224",
     "port":6007,
     "password":""
   },
   "*server_2":{
     "name":"Test non-existent server",
-    "version":999,
-    "note":"Vanilla server",
+    "address":"1.8.2.2",
+    "port":8484,
+    "password":""
+  },
+  "*server_3":{
+    "name":"Test non-existent server",
+    "address":"1.8.2.2",
+    "port":8484,
+    "password":""
+  },
+  "*server_4":{
+    "name":"Test non-existent server",
+    "address":"1.8.2.2",
+    "port":8484,
+    "password":""
+  },
+  "*server_5":{
+    "name":"Test non-existent server",
+    "address":"1.8.2.2",
+    "port":8484,
+    "password":""
+  },
+  "*server_6":{
+    "name":"Test non-existent server",
+    "address":"1.8.2.2",
+    "port":8484,
+    "password":""
+  },
+  "*server_7":{
+    "name":"Test non-existent server",
+    "address":"1.8.2.2",
+    "port":8484,
+    "password":""
+  },
+  "*server_8":{
+    "name":"Test non-existent server",
+    "address":"1.8.2.2",
+    "port":8484,
+    "password":""
+  },
+  "*server_9":{
+    "name":"Test non-existent server",
     "address":"1.8.2.2",
     "port":8484,
     "password":""
