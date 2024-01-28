@@ -5,7 +5,7 @@
     "note":"Vanilla server",
     "address":"194.87.235.224",
     "port":6007,
-    "password":"",
+    "password":""
   },
   "*server_2":{
     "name":"Test non-existent server",
@@ -13,6 +13,6 @@
     "note":"Vanilla server",
     "address":"1.8.2.2",
     "port":8484,
-    "password":"",
-  },
+    "password":""
+  }
 }
