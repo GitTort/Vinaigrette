@@ -1,7 +1,12 @@
 {
     "*server_1": {
-        "name": "Official 1",
+        "name": "Official East 1",
         "address": "194.87.235.224",
         "port": 6007
+    },
+    "*server_2": {
+        "name": "Official West 1",
+        "address": "91.149.242.187",
+        "port": 8484
     }
 }
