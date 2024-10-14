@@ -1,6 +1,6 @@
 {
-    "*server_1 (Removed)": {
-        "name": "Official East 1",
+    "*server_1": {
+        "name": "Official East 1 (Removed)",
         "address": "194.87.235.224",
         "port": 8484
     }
